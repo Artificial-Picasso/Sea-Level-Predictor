@@ -60,6 +60,5 @@ This project is part of the freeCodeCamp curriculum and is shared for educationa
 
 ## 👤 Author
 
-**Theo Mokoena**  
+**Motlalepula Lawrence Tshabalala**  
 Aspiring Data Analyst & AI Engineer  
-[LinkedIn](#) *(Insert your real LinkedIn URL)*
